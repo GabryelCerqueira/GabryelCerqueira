@@ -13,7 +13,7 @@
 Me chamo Gabryel Gomes Cerqueira, tenho 18 anos (2007) e sou natural de São Paulo. Concluí o ensino médio em Mirante do Paranapanema/SP, fiz 1 ano de curso de linux. Atualmente, estou cursando Ciências da Computação na Unoeste e no EAD cursando Engenharia de Software na Unifatecie. Sou apaixonado por tecnologia desde que era criança e aprofundei em 2021 quando por sugestão de um primo, me fez apaixonar pelo mundo da programação.
 
 <p>
-  <a href="https://linkedin.com/gabryel-gomes-cerqueira-650290282" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Gabryel Gomes Cerqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gabryel-gomes-cerqueira-650290282/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Gabryel Gomes Cerqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/gabryel_cerqueira" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-gabryel_cerqueira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:gabryelgomes010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-gabryelgomes010gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
