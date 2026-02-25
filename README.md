@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Gabryel Gomes Cerqueira
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+!;Gabryel+Gomes+Cerqueira)](https://git.io/typing-svg)
+
 **`Desenvolvedor Front-End/FullStack`**
 
 Me chamo Gabryel Gomes Cerqueira, tenho 18 anos (2007) e sou natural de São Paulo. Concluí o ensino médio em Mirante do Paranapanema/SP, fiz 1 ano de curso de linux. Atualmente, estou cursando Ciências da Computação na Unoeste e no EAD cursando Engenharia de Software na Unifatecie. Sou apaixonado por tecnologia desde que era criança e aprofundei em 2021 quando por sugestão de um primo, me fez apaixonar pelo mundo da programação.
@@ -11,7 +13,7 @@ Me chamo Gabryel Gomes Cerqueira, tenho 18 anos (2007) e sou natural de São Pau
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/GabryelCerqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
