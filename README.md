@@ -1,143 +1,53 @@
-# 👩🏻‍💻 Gabryel Gomes Cerqueira
+# 👩🏻‍💻 Gabryel Gomes Cerqueira 👋
+### Desenvolvedor Front-End/Full-Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+!;Gabryel+Gomes+Cerqueira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=A200F7&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+!;Gabryel+Gomes+Cerqueira)](https://git.io/typing-svg)
+***
 
-**`Desenvolvedor Front-End/FullStack`**
+<p>
+  <img src="https://img.shields.io/github/followers/GabryelCerqueira?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/GabryelCerqueira?label=Total%20Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=GabryelCerqueira&color=blueviolet&style=flat-square" alt="visitor count" />
+</p>
 
 Me chamo Gabryel Gomes Cerqueira, tenho 18 anos (2007) e sou natural de São Paulo. Concluí o ensino médio em Mirante do Paranapanema/SP, fiz 1 ano de curso de linux. Atualmente, estou cursando Ciências da Computação na Unoeste e no EAD cursando Engenharia de Software na Unifatecie. Sou apaixonado por tecnologia desde que era criança e aprofundei em 2021 quando por sugestão de um primo, me fez apaixonar pelo mundo da programação.
 
-## Insta: (https://www.instagram.com/gabryel_cerqueira)".
-
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabryelCerqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <a href="https://linkedin.com/Gabryel Gomes Cerqueira" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Gabryel Gomes Cerqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/gabryel_cerqueira" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-gabryel_cerqueira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:gabryelgomes010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-gabryelgomes010gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+### 🛠️ Linguagens e Ferramentas
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" /></a>
+</p>
+
+### 📊 GitHub Estatísticas
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabryelCerqueira&show_icons=true&theme=radical" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelCerqueira&layout=compact&theme=radical" alt="top langs card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelCerqueira&theme=radical" alt="streak stats" />
+</p>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GabryelCerqueira?cardType=level&theme=midnight-purple&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=GabryelCerqueira&theme=radical" alt="activity graph" /></p>
+
