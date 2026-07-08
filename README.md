@@ -31,7 +31,7 @@ Me chamo Gabryel Gomes Cerqueira, tenho 19 anos (2007) e sou natural de São Pau
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
