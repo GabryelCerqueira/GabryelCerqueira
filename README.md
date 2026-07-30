@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Gabryel Gomes Cerqueira 👋
-### Desenvolvedor Front-End/Full-Stack
+### Desenvolvedor Full-Stack
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=A200F7&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+!;Gabryel+Gomes+Cerqueira)](https://git.io/typing-svg)
 ***
