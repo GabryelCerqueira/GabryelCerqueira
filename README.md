@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/stars/GabryelCerqueira?label=Total%20Stars&style=social" />
   <img src="https://komarev.com/ghpvc/?username=GabryelCerqueira&color=blueviolet&style=flat-square" alt="visitor count" />
 </p>
-dificuldades ingles
+
 # Sobre Mim
 * Cursando Ciências da Computação (UNOESTE - FIPP) 💻️
 * Inglês C1 - Avançado 🇺🇲
