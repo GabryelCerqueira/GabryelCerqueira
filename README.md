@@ -9,8 +9,12 @@
   <img src="https://img.shields.io/github/stars/GabryelCerqueira?label=Total%20Stars&style=social" />
   <img src="https://komarev.com/ghpvc/?username=GabryelCerqueira&color=blueviolet&style=flat-square" alt="visitor count" />
 </p>
-
-Me chamo Gabryel Gomes Cerqueira, tenho 19 anos (2007) e sou natural de São Paulo. Concluí o ensino médio em Mirante do Paranapanema/SP, fiz 1 ano de curso de linux. Atualmente, estou cursando Ciências da Computação na Unoeste e no EAD cursando Engenharia de Software na Unifatecie. Sou apaixonado por tecnologia desde que era criança e aprofundei em 2021 quando por sugestão de um primo, me fez apaixonar pelo mundo da programação.
+dificuldades ingles
+# Sobre Mim
+* Cursando Ciências da Computação (UNOESTE - FIPP) 💻️
+* Inglês C1 - Avançado 🇺🇲
+* Desenvolvendo aplicações para uso pessoal e projetos com base em ajudar outras pessoas 💻️
+* Estudando todo os fundamentos Full-Stack 💻️
 
 <p>
   <a href="https://linkedin.com/in/Gabryel-Cerqueira/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Gabryel Gomes Cerqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -26,17 +30,25 @@ Me chamo Gabryel Gomes Cerqueira, tenho 19 anos (2007) e sou natural de São Pau
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass" alt="Scss" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="java" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" alt="spring" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="postman" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch" alt="arch" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" alt="idea" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" /></a>
 </p>
